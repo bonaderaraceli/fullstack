@@ -1,7 +1,11 @@
-1- git init ==> inicia un repositorio local (copia todo lo que tengo en el directorio donde lo inicio)
+1- git init ==> inicia un repositorio local, una sola vez (copia todo lo que tengo en el directorio donde lo inicio)
 U= sin  : no estan guardados en el repositorio local 
 git add ==>agrega todos los datos al repositorio local -git add index.html ==>agregar el archivo al repositorio local, agregando el nombre del archivo
 Otra forma de usarlo :
 git add . ==> agrega todo el directorio donde estamos trabajando
 A= archivo agregado a repositorio local
 M= archivo fue modificado, pero no guardados
+git commit ==> embalar el paquete de archivos para enviarlo
+-m ==> comentar o describir la tarea realizada
+Ej: git commit -a "Saludos"
+Si tocamos algo, volvemos a iniciar, menos el numero 1.
