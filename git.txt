@@ -9,3 +9,8 @@ git commit ==> embalar el paquete de archivos para enviarlo
 -m ==> comentar o describir la tarea realizada
 Ej: git commit -a "Saludos"
 Si tocamos algo, volvemos a iniciar, menos el numero 1.
+Git status ==> consulta el estado de Git
+Git no guarda directorios vacíos por default
+Git remote -v ==> me muestra donde estan guardados los códigos en remoto
+git log ==> me muestra los commits hechos y quien lo hizo
+
